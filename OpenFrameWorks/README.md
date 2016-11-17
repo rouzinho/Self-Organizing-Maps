@@ -1,1 +1,1 @@
-This is an implementation of the SOM for the C++ framework openFrameWorks. The datas used are simple RGB Vectors (0-255,0-255,0-255).
+This is an implementation of the SOM for the C++ framework openFrameWorks. I have implemented 2  kind of datas, simple RGB Vectors (0-255,0-255,0-255) or 2D points (it helps visualize the evolution of the network).
